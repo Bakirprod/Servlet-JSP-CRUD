@@ -1,10 +1,10 @@
-# Mini Facebook By Java
+# Servlet-JSP-CRUDS BY JAVA
 
-    Mini Facebook By Java
+    Servlet-JSP-CRUDS BY JAVA
 
 ## Screenshots:
 
-![alt text](https://github.com/Bakirprod/Servlet-JSP-CRUD/studentsite.png)
+![alt text](https://github.com/Bakirprod/Servlet-JSP-CRUD/blob/main/studentsite.png)
 
 ## Youtube Channel :
 
